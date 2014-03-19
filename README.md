@@ -1,3 +1,3 @@
 evanhellmuth.github.io
 ======================
-This is my personal website, hope it is informative and concise!
+This is my personal website. I hope it is informative and concise!
