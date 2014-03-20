@@ -55,7 +55,12 @@ body {
 
 div {
    background: #E5E4D7;
+
 }
+.shadow {
+   box-shadow: 1.5px 1.5px 4px 4px #A9A9A9;
+}
+
 #content {
    position: relative;
    right: 1.5%;
