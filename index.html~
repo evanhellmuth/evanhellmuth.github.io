@@ -27,7 +27,7 @@
       </div>
 
       <div id="aboutmeframe">
-         <p>     Hi there, I am Evan Hellmuth, a Junior at Yale University.  I am interested in computer vision, statistical applications in computer science, and trying out a little bit of everything - that third interest is why this page exists!</p>
+         <p id="aboutme">     Hi there, I am Evan Hellmuth, a Junior at Yale University.  I am interested in computer vision, statistical applications in computer science, and trying out a little bit of everything - that third interest is why this page exists!</p>
          <p>     Now to prove that I am indeed a human: I enjoy travelling and hiking, I love to learn new skills, be they trade skills, physical skills, or mental acrobatics, I play  guitar (two fingerpicking songs that are just great: <a href="http://www.youtube.com/watch?v=EqLak8XqN94">Spike Driver Blues</a>, <a href="https://www.youtube.com/watch?v=q6ZOaUMQhrI">Police Dog Blues</a>), and I think that enjoying a long meal with friends is one of the greatest pleasures on this earth.
          </p> 
       </div>
